@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "deploy-3-ddfbb"
-  }
+    "default": "deploy-3-ddfbb",
+    "staging": "deploy-3-ddfbb"
+  },
+  "targets": {},
+  "etags": {}
 }
