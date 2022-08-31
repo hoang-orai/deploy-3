@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h2>Firebase CICD</h2>
+        <h2>Firebase CICD 10:20</h2>
         <h2>Hello</h2>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
